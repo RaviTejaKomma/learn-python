@@ -1,0 +1,11 @@
+logs
+.history
+/.idea
+/*.iml
+/.idea_modules
+/.settings
+venv
+.idea
+__pycache__
+*.pyc
+.cache/*

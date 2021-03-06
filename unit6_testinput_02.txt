@@ -1,0 +1,18 @@
+# DO NOT MODIFY THIS FILE. MODIFY YOUR CODE IF THE TESTS FAIL :).
+Act
+bat
+Top
+POT
+ant
+Tan
+# This is a comment and must be ignored.
+Rat
+Test
+# The empty line below must be ignored as well.
+
+Set
+Time
+nat
+  # This line must be ignored too.
+mite
+abigail
